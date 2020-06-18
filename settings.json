@@ -1,0 +1,16 @@
+{
+    "editor.fontFamily": "Monaco",
+    "editor.fontSize": 18,
+    "python.pythonPath": "E:\\Anaconda3\\python.exe",
+    "code-runner.saveFileBeforeRun": true,
+    "python.linting.pylintEnabled": false,
+    "python.linting.flake8Enabled": true,
+    "python.linting.flake8Args": [
+        "--max-line-length=120"
+    ],
+    "python.formatting.provider": "yapf",
+    "editor.formatOnSave": true,
+    "code-runner.executorMap": {
+        "python": "E:\\Anaconda3\\python.exe",
+    }
+}
